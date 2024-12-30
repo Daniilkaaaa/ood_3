@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danii\\source\\repos\\ood_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A2B1886-6C20-4DE9-BB6C-C8193A5B9C40}|ood_3\\ood_3.vcxproj|C:\\Users\\danii\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\ood_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A2B1886-6C20-4DE9-BB6C-C8193A5B9C40}|ood_3\\ood_3.vcxproj|C:\\Users\\danii\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A2B1886-6C20-4DE9-BB6C-C8193A5B9C40}|ood_3\\ood_3.vcxproj|C:\\Users\\danii\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CRectangleDecorator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A2B1886-6C20-4DE9-BB6C-C8193A5B9C40}|ood_3\\ood_3.vcxproj|C:\\Users\\danii\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CTriangleDecorator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A2B1886-6C20-4DE9-BB6C-C8193A5B9C40}|ood_3\\ood_3.vcxproj|C:\\Users\\danii\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A2B1886-6C20-4DE9-BB6C-C8193A5B9C40}|ood_3\\ood_3.vcxproj|C:\\Users\\danii\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CCircleCreator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A2B1886-6C20-4DE9-BB6C-C8193A5B9C40}|ood_3\\ood_3.vcxproj|C:\\Users\\danii\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CCircleDecorator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A2B1886-6C20-4DE9-BB6C-C8193A5B9C40}|ood_3\\ood_3.vcxproj|C:\\Users\\danii\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CPrintShapeCharacteristicsVisitor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A2B1886-6C20-4DE9-BB6C-C8193A5B9C40}|ood_3\\ood_3.vcxproj|C:\\Users\\danii\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CRectangleCreator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A2B1886-6C20-4DE9-BB6C-C8193A5B9C40}|ood_3\\ood_3.vcxproj|C:\\Users\\danii\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CShapeCreator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A2B1886-6C20-4DE9-BB6C-C8193A5B9C40}|ood_3\\ood_3.vcxproj|C:\\Users\\danii\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CShapeVisitor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A2B1886-6C20-4DE9-BB6C-C8193A5B9C40}|ood_3\\ood_3.vcxproj|C:\\Users\\danii\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CTriangleDecorator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ood_3.cpp",
+              "DocumentMoniker": "C:\\Users\\danii\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\ood_3.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\ood_3.cpp",
+              "ToolTip": "C:\\Users\\danii\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\ood_3.cpp",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\ood_3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-29T21:47:14.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CController.cpp",
+              "DocumentMoniker": "C:\\Users\\danii\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CController.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CController.cpp",
+              "ToolTip": "C:\\Users\\danii\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CController.cpp",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CController.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-29T21:46:50.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CRectangleDecorator.cpp",
+              "DocumentMoniker": "C:\\Users\\danii\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CRectangleDecorator.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CRectangleDecorator.cpp",
+              "ToolTip": "C:\\Users\\danii\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CRectangleDecorator.cpp",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CRectangleDecorator.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-29T21:46:49.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CTriangleDecorator.cpp",
+              "DocumentMoniker": "C:\\Users\\danii\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CTriangleDecorator.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CTriangleDecorator.cpp",
+              "ToolTip": "C:\\Users\\danii\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CTriangleDecorator.cpp",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CTriangleDecorator.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-29T21:46:48.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CCircleCreator.h",
+              "DocumentMoniker": "C:\\Users\\danii\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CCircleCreator.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CCircleCreator.h",
+              "ToolTip": "C:\\Users\\danii\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CCircleCreator.h",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CCircleCreator.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-29T21:44:45.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CCircleDecorator.h",
+              "DocumentMoniker": "C:\\Users\\danii\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CCircleDecorator.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CCircleDecorator.h",
+              "ToolTip": "C:\\Users\\danii\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CCircleDecorator.h",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CCircleDecorator.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-29T21:44:44.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CController.h",
+              "DocumentMoniker": "C:\\Users\\danii\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CController.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CController.h",
+              "ToolTip": "C:\\Users\\danii\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CController.h",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CController.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-29T21:44:43.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CPrintShapeCharacteristicsVisitor.h",
+              "DocumentMoniker": "C:\\Users\\danii\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CPrintShapeCharacteristicsVisitor.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CPrintShapeCharacteristicsVisitor.h",
+              "ToolTip": "C:\\Users\\danii\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CPrintShapeCharacteristicsVisitor.h",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CPrintShapeCharacteristicsVisitor.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-29T21:44:42.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CRectangleCreator.h",
+              "DocumentMoniker": "C:\\Users\\danii\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CRectangleCreator.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CRectangleCreator.h",
+              "ToolTip": "C:\\Users\\danii\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CRectangleCreator.h",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CRectangleCreator.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-29T21:44:41.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CShapeCreator.h",
+              "DocumentMoniker": "C:\\Users\\danii\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CShapeCreator.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CShapeCreator.h",
+              "ToolTip": "C:\\Users\\danii\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CShapeCreator.h",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CShapeCreator.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-29T21:44:40.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CShapeVisitor.h",
+              "DocumentMoniker": "C:\\Users\\danii\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CShapeVisitor.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CShapeVisitor.h",
+              "ToolTip": "C:\\Users\\danii\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CShapeVisitor.h",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CShapeVisitor.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-29T21:44:40.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CTriangleDecorator.h",
+              "DocumentMoniker": "C:\\Users\\danii\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CTriangleDecorator.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CTriangleDecorator.h",
+              "ToolTip": "C:\\Users\\danii\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CTriangleDecorator.h",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\OOD-master\\OOD-master\\lws\\3\\lw3\\lw3\\CTriangleDecorator.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-29T21:44:39.584Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
